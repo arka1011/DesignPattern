@@ -1,4 +1,4 @@
-#include "singleton.h"
+#include "Singleton.h"
 
 Singleton* Singleton::_instance = nullptr;
 
